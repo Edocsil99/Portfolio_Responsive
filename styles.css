@@ -270,7 +270,7 @@ h3 {
   }
 footer {
     background-color:black;
-    position: fixed;
+    background-attachment: fixed;
     bottom: 0;
 } 
 footer a{
