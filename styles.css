@@ -268,6 +268,14 @@ h3 {
 .fas:hover {
     font-size: 50px;
   }
+footer {
+    background-color:black;
+    position: fixed;
+    bottom: 0;
+} 
+footer a{
+    color: white;
+}
   @media (max-height: 500px) {
     .welcome {
         text-align: center;
